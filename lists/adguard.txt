@@ -1,0 +1,8 @@
+# AdGuard Base
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+# AdGuard Mobile Ads
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+# AdGuard Tracking Protection
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+# KOR: YousList
+https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
